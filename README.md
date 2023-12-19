@@ -9,3 +9,8 @@ npx create-next-app@latest nextjs-blog --use-npm --example "https://github.com/v
 ```
 cd nextjs-blog
 ```
+
+## 3. NextJS 실행
+```
+npm run dev
+```
