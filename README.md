@@ -12,11 +12,11 @@ npx create-next-app@latest app
 ```
 
 ## 2. 디렉토리 이동
-2-1.
+2-1. nextjs-blog\로 이동
 ```
 cd nextjs-blog
 ```
-2-2.
+2-2. app\으로 이동
 ```
 cd app
 ```
